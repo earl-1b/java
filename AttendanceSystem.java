@@ -1,3 +1,6 @@
+//Llena Earl Laurence A
+//CC2-1B
+
 import java.util.Scanner;
 public class AttendanceSystem {
     public static void main(String[] args) {
